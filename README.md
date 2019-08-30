@@ -19,7 +19,7 @@ En este proyecto se recopilará información para organizarla y evaluar las mejo
 El proyecto esta realizandose con las siguiente actividades abajo mostradas:
 
 ##Presupuesto
-https://user-images.githubusercontent.com/51222789/63995236-76aa1b00-cabd-11e9-8908-164370eac438.png
+![imagen](https://user-images.githubusercontent.com/51222789/63995236-76aa1b00-cabd-11e9-8908-164370eac438.png)
 
 #Entendimiento del Problema
 ##Definición del producto 
@@ -48,10 +48,9 @@ Grecia tiene entre sus proyectos crear una pagina web donde podría ofrecer mayo
 - Crear alegría al tener "responsabilidad sin realmente tener responsabilidad" sobre una vida.
 
 ## Benchmark
-https://user-images.githubusercontent.com/51222789/64012044-8720bc80-cae2-11e9-92d4-13d547c77465.png
+![imagen](https://user-images.githubusercontent.com/51222789/64012044-8720bc80-cae2-11e9-92d4-13d547c77465.png)
 
-https://user-images.githubusercontent.com/51222789/64012550-89374b00-cae3-11e9-9d9b-90471c9f44de.png
-
+![imagen](https://user-images.githubusercontent.com/51222789/64012550-89374b00-cae3-11e9-9d9b-90471c9f44de.png)
 Planteamiento:
 - Sus redes sociales no cuentan con medios de pago, si alguien quiere realizar una compra tiene que entrar a su otra red social para coordinar un deposito, una transferencia, o pago contra entrega.
 - Sus productos no tienen un filtro ni un orden correspondiente.
@@ -77,27 +76,26 @@ Planteamiento:
 
 Entre los puntos mas resaltantes se obtuvieron los siguiente:
 
-https://user-images.githubusercontent.com/51222789/64016880-b5f06000-caed-11e9-8aae-7bd74f2818ec.png
-https://user-images.githubusercontent.com/51222789/64016517-d53abd80-caec-11e9-9b06-329b70a8251c.png
-https://user-images.githubusercontent.com/51222789/64016995-1a132400-caee-11e9-960a-9edd6cce1389.png
-https://user-images.githubusercontent.com/51222789/64016225-fea71980-caeb-11e9-9357-e7340211072a.png
-https://user-images.githubusercontent.com/51222789/64016289-2eeeb800-caec-11e9-8a9f-555c21234877.png
+![imagen](https://user-images.githubusercontent.com/51222789/64016880-b5f06000-caed-11e9-8aae-7bd74f2818ec.png)
+![imagen](https://user-images.githubusercontent.com/51222789/64016517-d53abd80-caec-11e9-9b06-329b70a8251c.png)
+![imagen](https://user-images.githubusercontent.com/51222789/64016995-1a132400-caee-11e9-960a-9edd6cce1389.png)
+![imagen](https://user-images.githubusercontent.com/51222789/64016225-fea71980-caeb-11e9-9357-e7340211072a.png)
+![imagen](https://user-images.githubusercontent.com/51222789/64016289-2eeeb800-caec-11e9-8a9f-555c21234877.png)
 
 #Definición del público objetivo
 
 ##User persona
 
 Para definir el User Persona tomamos en cuenta las motivaciones y frustaciones de nuestros posibles usuarios, de nuestros usuarios.
-https://user-images.githubusercontent.com/51222789/64018886-441b1500-caf3-11e9-81f8-bde46f8feffe.png
-
+![imagen](https://user-images.githubusercontent.com/51222789/64018886-441b1500-caf3-11e9-81f8-bde46f8feffe.png)
 ##Customer persona
 Definimos el Customer persona porque el producto tiene arreglos para eventos especiales, por ende nuestro comprador no necesarimente sera nuesto usuario.
-https://user-images.githubusercontent.com/51333504/64037448-3b3e3980-cb1b-11e9-8420-63f1da4d068b.png
+![imagen](ttps://user-images.githubusercontent.com/51333504/64037448-3b3e3980-cb1b-11e9-8420-63f1da4d068b.png)
 
 ##Customer Journey Map (indicando pain y gain points)
 Seguimos el proceso desde la compra hasta que el producto llegue a las manos del usuario, mediante eso definimos las emociones alegrÍas o tristes 
 
-https://user-images.githubusercontent.com/51222789/64020325-f2748980-caf6-11e9-974f-a593bcb9e875.png
+![imagen](https://user-images.githubusercontent.com/51222789/64020325-f2748980-caf6-11e9-974f-a593bcb9e875.png)
 
 #Definición de la solución/producto
 
@@ -188,13 +186,13 @@ Priorizamos las soluciones mas viables:
 #Prototipo de baja fidelidad
 
 Despues de haber hecho varios sketchs realizamos nuestro prototipo de baja fidelidad:
-https://user-images.githubusercontent.com/51222789/64037908-64ab9500-cb1c-11e9-9ab4-a67aa51bfc03.png
-https://user-images.githubusercontent.com/51222789/64038001-9de40500-cb1c-11e9-9b79-d3b130f5e5b9.png
-https://user-images.githubusercontent.com/51222789/64038054-c409a500-cb1c-11e9-92ad-a433ede3c38e.png
-https://user-images.githubusercontent.com/51222789/64038093-dc79bf80-cb1c-11e9-8d57-c1a9ae2fd66d.png
-https://user-images.githubusercontent.com/51222789/64038143-fd421500-cb1c-11e9-9ba6-f7e85c1aab16.png
-https://user-images.githubusercontent.com/51222789/64038211-2367b500-cb1d-11e9-9ffd-0c496848a764.png
-https://user-images.githubusercontent.com/51222789/64038245-37131b80-cb1d-11e9-8c2c-07966a2a3dd6.png
+![imagen](https://user-images.githubusercontent.com/51222789/64037908-64ab9500-cb1c-11e9-9ab4-a67aa51bfc03.png)
+![imagen](https://user-images.githubusercontent.com/51222789/64038001-9de40500-cb1c-11e9-9b79-d3b130f5e5b9.png)
+![imagen](https://user-images.githubusercontent.com/51222789/64038054-c409a500-cb1c-11e9-92ad-a433ede3c38e.png)
+![imagen](https://user-images.githubusercontent.com/51222789/64038093-dc79bf80-cb1c-11e9-8d57-c1a9ae2fd66d.png)
+![imagen](https://user-images.githubusercontent.com/51222789/64038143-fd421500-cb1c-11e9-9ba6-f7e85c1aab16.png)
+![imagen](https://user-images.githubusercontent.com/51222789/64038211-2367b500-cb1d-11e9-9ffd-0c496848a764.png)
+![imagen](https://user-images.githubusercontent.com/51222789/64038245-37131b80-cb1d-11e9-8c2c-07966a2a3dd6.png)
 
 Se realizo testeos:
 [Testeo de baja fidelidad](https://drive.google.com/drive/folders/1-6aPS7lAanTRFUIj1x8ec1xDTFAJmt-y?usp=sharing)
@@ -211,6 +209,7 @@ Feedback:
 Se realizó testeos 
 [Testeo de media fidelidad](https://www.loom.com/share/ea486eca4e04464a9eb751d66df140a4)
 
+[Testeo de media fidelidad](https://drive.google.com/drive/folders/1-B8fEOrelU2iiFLc_8uesC2zQ7kBg6-_)
 Feedback:
 
 - La pantalla principal no parecía una pantalla principal
