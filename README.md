@@ -15,14 +15,14 @@ Hoy en día este comportamiento ha sido aprovechado para generar negocios y empr
 
 En este proyecto se recopilará información para organizarla y evaluar las mejores soluciones de necesidad del usuario, puesto que la cliente ya tenía en mente la implementación de una tienda e-commerce, evaluaremos que tan real sería esta opción actualmente y los porques serían beneficiosos para arreglos y Suculentas.
 
-#Implementación 
+# Implementación 
 El proyecto esta realizandose con las siguiente actividades abajo mostradas:
 
-##Presupuesto
+## Presupuesto
 ![imagen](https://user-images.githubusercontent.com/51222789/63995236-76aa1b00-cabd-11e9-8908-164370eac438.png)
 
-#Entendimiento del Problema
-##Definición del producto 
+# Entendimiento del Problema
+## Definición del producto 
 
 Empezamos a indagar sobre arreglos y suculentas, buscar el mayor detalle posible 
 
@@ -35,7 +35,7 @@ Hoy Grecia cuenta con dos redes sociales donde ofrece arreglos, suculentas y cac
 Grecia tiene entre sus proyectos crear una pagina web donde podría ofrecer mayor seguridad y comodidad a sus clientes.
 
 
-##Target User
+## Target User
  Se obtiene que Arreglos y suculentas es un empredimiento dirigido a todo tipo de personas, que tengan algún ingreso, con poco tiempo y cuidado, ya que este tipo de producto es un ser vivo que no requiere de tanta atención. Se ofrece el servicio de comprar y/o regalar vida. 
 
 - Mujeres y Varones entre los 18 a 50 años
@@ -58,7 +58,7 @@ Planteamiento:
 - Carece de información básica sobre cada producto
 
 
-#Entendimiento del Problema
+# Entendimiento del Problema
 ## Definición de necesidades
 En este paso realizamos entrevistas con los usuarios para entender la problematica en el emprendimiento
 
@@ -72,7 +72,7 @@ Planteamiento:
 - Postea memes cuando no tiene stock y continúe con la interacción
 - No se sabe que producto tiene en stock en el momento  
 
-#Mapa de Afinidad
+# Mapa de Afinidad
 
 Entre los puntos mas resaltantes se obtuvieron los siguiente:
 
@@ -82,24 +82,25 @@ Entre los puntos mas resaltantes se obtuvieron los siguiente:
 ![imagen](https://user-images.githubusercontent.com/51222789/64016225-fea71980-caeb-11e9-9357-e7340211072a.png)
 ![imagen](https://user-images.githubusercontent.com/51222789/64016289-2eeeb800-caec-11e9-8a9f-555c21234877.png)
 
-#Definición del público objetivo
+# Definición del público objetivo
 
-##User persona
+## User persona
 
 Para definir el User Persona tomamos en cuenta las motivaciones y frustaciones de nuestros posibles usuarios, de nuestros usuarios.
 ![imagen](https://user-images.githubusercontent.com/51222789/64018886-441b1500-caf3-11e9-81f8-bde46f8feffe.png)
-##Customer persona
+
+## Customer persona
 Definimos el Customer persona porque el producto tiene arreglos para eventos especiales, por ende nuestro comprador no necesarimente sera nuesto usuario.
 ![imagen](https://user-images.githubusercontent.com/51333504/64037448-3b3e3980-cb1b-11e9-8420-63f1da4d068b.png)
 
-##Customer Journey Map (indicando pain y gain points)
+## Customer Journey Map (indicando pain y gain points)
 Seguimos el proceso desde la compra hasta que el producto llegue a las manos del usuario, mediante eso definimos las emociones alegrÍas o tristes 
 
 ![imagen](https://user-images.githubusercontent.com/51222789/64020325-f2748980-caf6-11e9-974f-a593bcb9e875.png)
 
-#Definición de la solución/producto
+# Definición de la solución/producto
 
-##Problem Statements
+## Problem Statements
 
 Despues de realizada las entrevistas pudimos identificar los principales problemas del usuario que dificulta su facil navegacion:
 
@@ -137,7 +138,8 @@ Usamos esta herramienta para partir del que pasaría si?
 
 Despues de habernos preguntado y generado posibles soluciones las plasmamos a la realidad en nuestra lluvia de ideas
 
-##Benchmark
+## Benchmark
+
 [La Tienda del Cactus](https://latiendadelcactus.es/)
 
 * Mostrar información básica (imagen, nombre, precio, tamaño del producto, agregar al carrito )
@@ -151,7 +153,7 @@ Despues de habernos preguntado y generado posibles soluciones las plasmamos a la
 * Muestra el carrito shopping compras 
 * Muestra la primera  cara  accesibles y amigables para que el usuario no se pierda.
 
-##Brainstorm: 
+## Brainstorm: 
 
 * Descripción como subtitulo a qué tipo de producto es.
 * Mostrar las opciones de pago.
@@ -169,7 +171,7 @@ Despues de habernos preguntado y generado posibles soluciones las plasmamos a la
 * Agregar la opción de contacto por si el usuario  necesita hacer alguna consulta.
 * Agregar la opción de accesorio para que el usuario sepa que contiene  la compra de cada producto.
 
-##MVP
+## MVP
 
 Priorizamos las soluciones mas viables:
 
@@ -183,7 +185,7 @@ Priorizamos las soluciones mas viables:
 * Agregar la opción de contacto por si el usuario  necesita hacer alguna consulta.
 
 
-#Prototipo de baja fidelidad
+# Prototipo de baja fidelidad
 
 Despues de haber hecho varios sketchs realizamos nuestro prototipo de baja fidelidad:
 ![imagen](https://user-images.githubusercontent.com/51222789/64037908-64ab9500-cb1c-11e9-9ab4-a67aa51bfc03.png)
@@ -195,21 +197,25 @@ Despues de haber hecho varios sketchs realizamos nuestro prototipo de baja fidel
 ![imagen](https://user-images.githubusercontent.com/51222789/64038245-37131b80-cb1d-11e9-8c2c-07966a2a3dd6.png)
 
 Se realizo testeos:
+
 [Testeo de baja fidelidad](https://drive.google.com/drive/folders/1-6aPS7lAanTRFUIj1x8ec1xDTFAJmt-y?usp=sharing)
 
 Feedback:
+
 - EL texto estaba demasiado carggado
 - Carecía de botones necesarios (retornar, comprar, siguiente, agregar al carrito)
 - se eliminó la pantalla de información ya que podía incluirse en la desripción de cada item.
 - Se agregó un pantalla de despedida y calificación del servicio.
 
 
-#prototipo de media fidelidad
+# prototipo de media fidelidad
 
 Se realizó testeos 
+
 [Testeo de media fidelidad](https://www.loom.com/share/ea486eca4e04464a9eb751d66df140a4)
 
 [Testeo de media fidelidad](https://drive.google.com/drive/folders/1-B8fEOrelU2iiFLc_8uesC2zQ7kBg6-_)
+
 Feedback:
 
 - La pantalla principal no parecía una pantalla principal
@@ -218,7 +224,8 @@ Feedback:
 - La pantalla  "Nosotros" debería mostrar información sobre suculentas y el propósito de  la página 
 - En el botón accesorios  el usuario se confunde (supone que son macetas y no los materiales para que el usuario    escoja como armar su arreglo de suculenta.
 
-#Prototipo de alta fidelidad
+# Prototipo de alta fidelidad
+
 Después de del testeo de media fidelidad se llegó al de alta de la siguiente manera:
 [Prototipo de alta fidelidad](https://www.figma.com/file/EU1LhI1q5Nh9btynhyv96f/MARKETPLACE?node-id=0%3A1)
 
