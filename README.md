@@ -90,7 +90,7 @@ Para definir el User Persona tomamos en cuenta las motivaciones y frustaciones d
 ![imagen](https://user-images.githubusercontent.com/51222789/64018886-441b1500-caf3-11e9-81f8-bde46f8feffe.png)
 ##Customer persona
 Definimos el Customer persona porque el producto tiene arreglos para eventos especiales, por ende nuestro comprador no necesarimente sera nuesto usuario.
-![imagen](ttps://user-images.githubusercontent.com/51333504/64037448-3b3e3980-cb1b-11e9-8420-63f1da4d068b.png)
+![imagen](https://user-images.githubusercontent.com/51333504/64037448-3b3e3980-cb1b-11e9-8420-63f1da4d068b.png)
 
 ##Customer Journey Map (indicando pain y gain points)
 Seguimos el proceso desde la compra hasta que el producto llegue a las manos del usuario, mediante eso definimos las emociones alegrÍas o tristes 
